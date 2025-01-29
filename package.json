@@ -1,0 +1,16 @@
+{
+  "name": "backend-mysql-con",
+  "version": "0.0.0",
+  "description": "Common-api",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
